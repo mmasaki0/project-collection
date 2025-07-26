@@ -1,4 +1,4 @@
-# Origami Crane Model and Print [cad-origami-crane]
+# Origami Crane Model and Print [origami-crane]
 (2024-12-22)
 
 <p align="center">
