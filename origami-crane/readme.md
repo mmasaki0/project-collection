@@ -9,7 +9,7 @@
 
 This is an origami crane modeled in Fusion and 3D printed in 95A TPU (Thermoplastic Polyurethane). My goal for this model was to adapt origami into a decorative print to increase durability and long-term use, as origami decorations can often get crushed or ruined from humidity. 
 
-[[STEP]](</cad/origami-crane.step>) [[3MF]](</cad/origami-crane.3mf>)
+[[STEP]](</origami-crane/cad/origami crane.step>) [[3MF]](</origami-crane/cad/origami crane.3mf>)
 
 ## Tools Used
 
