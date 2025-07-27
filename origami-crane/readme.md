@@ -2,7 +2,7 @@
 (2024-12-22)
 
 <p align="center">
-  <img src="/origami-crane/gallery/thumbnail.png" height=300 />
+  <img src="/origami-crane/gallery/thumbnail.png" height=500 />
 </p>
 
 ## Overview
