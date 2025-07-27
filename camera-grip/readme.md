@@ -34,12 +34,10 @@ This is a 3D printed extended grip for my camera. I used this project as a way t
 
 ## Gallery</h1>
 
-Idea sketch
 <p align="center">
   <img src="/camera-grip/gallery/idea bottom.png" height=300 />
 </p>
 
-Version 2 models and assembly 
 <p align="center">
   <img src="/camera-grip/gallery/onshape ss top ortho.png" height=300 />
   <img src="/camera-grip/gallery/onshape ss bottom ortho.png" height=300 />
@@ -47,13 +45,15 @@ Version 2 models and assembly
   <img src="/camera-grip/gallery/assembly.png" height=300 />
 </p>
 
-Finite Element Analysis (versions 1 and 2) using 300 N of force
 <p align="center">
   <img src="/camera-grip/gallery/fae.png" height=500 />
   <img src="/camera-grip/gallery/fae 2.png" height=500 />
 </p>
 
-3D prints (versions 1 and 2) and grip tape
+<p align="center">
+  <img src="/camera-grip/gallery/slicer ss.png" height=500 />
+</p>
+
 <p align="center">
   <img src="/camera-grip/gallery/v1 and v2.png" height=500 />
   <img src="/camera-grip/gallery/top.png" height=500 />
