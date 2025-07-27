@@ -2,29 +2,30 @@
 (2025-07-18)
 
 <p align="center">
-  <img src="/camera-grip/gallery/thumbnail.png" height=300 />
+  <img src="/camera-grip/gallery/thumbnail.png" height=400 />
 </p>
 
 ## Overview
 
-This is a 3D printed extended grip for my camera. I used this project as a way to get familiar with Onshape, and learned the basics of Finite Element Analysis using Fusion Simulations. I tested the first version for 4 weeks and found points of improvement which I implemented on the second version.
+This is a 3D printed extended grip for my camera. I used this project as a way to get familiar with Onshape, and learned the basics of Finite Element Analysis using Fusion Simulations. I tested the first version for 4 weeks and found points of improvement which I implemented in the second version.
 
 [[STEP]](</camera-grip/cad/camera grip v2.step>) [[3MF]](</camera-grip/cad/camera grip v2.3mf>)
 
 ## Tools Used
 
 - **CAD:** Onshape
-- **FEA:** AutoDesk Fusion
+- **FEA:** AutoDesk Fusion Simulation
 - **3D Printer:** Bambu Lab A1 Mini
 - **Filament:** Bambu Lab PLA Basic
 - **Additional Hardware:** 1/4"-20 x 1/2" Hex Bolt and 1/4" Nylon Washer
 
 ## Highlights
 
-- Lips on the front matches the contour of the camera body and prevents it from rotating
+- Protrusions on the front prevents it from pivoting around the screw
 - Knob for easy attachment with no tools required
 - Cavity for increased pinky space
-- Fuzzy skin to increase grip
+- Fuzzy skin to add surface texture
+- Grip tape to grip onto and prevent scratches on the camera body
 
 ## What I learned
 
@@ -33,13 +34,29 @@ This is a 3D printed extended grip for my camera. I used this project as a way t
 
 ## Gallery</h1>
 
+Idea sketch
 <p align="center">
   <img src="/camera-grip/gallery/idea bottom.png" height=300 />
-  <img src="/camera-grip/gallery/fae.png" height=300 />
-  <img src="/camera-grip/gallery/slicer ss.png" height=300 />
-  <img src="/camera-grip/gallery/bottom.png" height=300 />
-  <img src="/camera-grip/gallery/v1 and v2.jpg" height=500 />
-  <img src="/camera-grip/gallery/top.jpg" height=500 />
+</p>
+
+Version 2 models and assembly 
+<p align="center">
+  <img src="/camera-grip/gallery/onshape ss top ortho.png" height=300 />
+  <img src="/camera-grip/gallery/onshape ss bottom ortho.png" height=300 />
+  <img src="/camera-grip/gallery/knob.png" height=300 />
+  <img src="/camera-grip/gallery/assembly.png" height=300 />
+</p>
+
+Finite Element Analysis (versions 1 and 2) using 300 N of force
+<p align="center">
+  <img src="/camera-grip/gallery/fae.png" height=500 />
+  <img src="/camera-grip/gallery/fae 2.png" height=500 />
+</p>
+
+3D prints (versions 1 and 2) and grip tape
+<p align="center">
+  <img src="/camera-grip/gallery/v1 and v2.png" height=500 />
+  <img src="/camera-grip/gallery/top.png" height=500 />
 </p>
 
 
