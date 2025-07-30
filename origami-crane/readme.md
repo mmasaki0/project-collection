@@ -14,7 +14,7 @@ This is an origami crane modeled in Fusion and 3D printed in 95A TPU (Thermoplas
 ## Tools Used
 
 - **CAD:** AutoDesk Fusion
-- **3D Printer:** Bambu A1 Mini
+- **3D Printer:** Bambu Lab A1 Mini
 - **Filament:** OVERTURE TPU 95A
 
 ## Highlights
