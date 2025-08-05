@@ -2,7 +2,7 @@
 (2025-07-18)
 
 <p align="center">
-  <img src="/camera-grip/gallery/thumbnail.png" height=400 />
+  <img src="/camera-grip/gallery/thumbnail.jpg" height=400 />
 </p>
 
 ## Overview
